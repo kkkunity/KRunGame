@@ -1,0 +1,7 @@
+APK/
+*.apk
+.idea/
+UmlFiles/
+ReSharper.2022.2.3/
+JetBrains.ReSharper.CommandLineTools.2022.2.3/
+
